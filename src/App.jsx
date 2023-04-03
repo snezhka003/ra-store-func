@@ -1,5 +1,5 @@
-import './App.css'
-import ShopItemFunc from './components/ShopItemFunc'
+import './App.css';
+import ShopItemFunc from './components/ShopItemFunc';
 
 export default function App() {
   const item = {
